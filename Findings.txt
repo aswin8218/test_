@@ -1,4 +1,3 @@
-OK, it sounds like you're confident in the basic functionality of the `csrf_scanner.py` script. That's great! Let's move on to documenting our work. Clear and concise documentation is crucial for any coding project, especially when dealing with security concepts.
 
 Here's a suggested structure for your documentation, along with some key points to include:
 
@@ -35,16 +34,4 @@ Here's a suggested structure for your documentation, along with some key points 
 *   Explain how to adapt the PoC to target a specific vulnerable form.
 *   Emphasize the importance of ethical testing and obtaining proper authorization.
 
-**6.  Additional Resources**
 
-*   Provide links to relevant resources, such as the OWASP CSRF Prevention Cheat Sheet and other educational materials.
-
-**Tips for Effective Documentation:**
-
-*   Use clear and concise language.
-*   Include code examples and screenshots to illustrate key concepts.
-*   Organize the information logically with headings and subheadings.
-*   Maintain a consistent style and formatting.
-*   Keep the documentation up-to-date as you make changes to the script.
-
-Remember, good documentation is an investment in your project's success. It makes your code easier to understand, use, and maintain, both for yourself and for others who might use or contribute to your work.
