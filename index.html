@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>XSS Test Page</title>
+</head>
+<body>
+    <form method="GET">
+        <label for="name">Enter your name:</label>
+        <input type="text" id="name" name="name">
+        <button type="submit">Submit</button>
+    </form>
+    <p>Hello, <?php echo $_GET["name"]; ?></p>
+</body>
+</html>
